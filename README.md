@@ -1,2 +1,2 @@
 # gaper-io
-Gaper - AI Workforce Platform - Hire Top 1% Engineers + AI Agents in 24 hours from $35/hr - gaper.io
+Gaper the AI-native implementation partner. We build and deploy supervised production AI agents into your workflows, and help your company become AI-native.
